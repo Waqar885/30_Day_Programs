@@ -1,0 +1,2 @@
+-------------------------> BANK ACCOUNT SIMULATION <----------------------------
+[Name: Waqar Raza, PIN: 112, Phone Number: 03*******2, Balance: 0]
