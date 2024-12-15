@@ -1,6 +1,5 @@
 import requests
-
-key = 'cbbd31b75c80115f1149c37d90ff3cdd'
+from secret_key import key
 
 User_city = input("Enter your city: ")
 
